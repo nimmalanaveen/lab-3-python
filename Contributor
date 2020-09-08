@@ -1,0 +1,8 @@
+arr1=[1,2,6,7,8];
+arr2=[None]*Len(arr1);
+length=Len(arr1)
+for i in range(0,length):
+    arr2[i]=arr1[i];
+print("the original array is"arr1)
+for i in range (0,len(arr2)):
+    print("the new array is"arr2)
